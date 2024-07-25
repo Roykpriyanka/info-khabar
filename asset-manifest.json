@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Info-khabar/static/css/main.abd64e84.css",
-    "main.js": "/Info-khabar/static/js/main.67648736.js",
-    "static/js/787.4c026eef.chunk.js": "/Info-khabar/static/js/787.4c026eef.chunk.js",
-    "static/media/loading.gif": "/Info-khabar/static/media/loading.d3fbaf2b81fd92c49692.gif",
-    "index.html": "/Info-khabar/index.html",
-    "main.abd64e84.css.map": "/Info-khabar/static/css/main.abd64e84.css.map",
-    "main.67648736.js.map": "/Info-khabar/static/js/main.67648736.js.map",
-    "787.4c026eef.chunk.js.map": "/Info-khabar/static/js/787.4c026eef.chunk.js.map"
+    "main.css": "/Roykpriyanka/Info-khabar/static/css/main.abd64e84.css",
+    "main.js": "/Roykpriyanka/Info-khabar/static/js/main.a177c91e.js",
+    "static/js/787.4c026eef.chunk.js": "/Roykpriyanka/Info-khabar/static/js/787.4c026eef.chunk.js",
+    "static/media/loading.gif": "/Roykpriyanka/Info-khabar/static/media/loading.d3fbaf2b81fd92c49692.gif",
+    "index.html": "/Roykpriyanka/Info-khabar/index.html",
+    "main.abd64e84.css.map": "/Roykpriyanka/Info-khabar/static/css/main.abd64e84.css.map",
+    "main.a177c91e.js.map": "/Roykpriyanka/Info-khabar/static/js/main.a177c91e.js.map",
+    "787.4c026eef.chunk.js.map": "/Roykpriyanka/Info-khabar/static/js/787.4c026eef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.abd64e84.css",
-    "static/js/main.67648736.js"
+    "static/js/main.a177c91e.js"
   ]
 }
